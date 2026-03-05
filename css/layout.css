@@ -1,0 +1,16 @@
+.container{
+    display:grid;
+    height:100vh;
+    grid-template-columns:2fr 4fr;
+    grid-template-rows:auto 1fr auto;
+    grid-template-areas:
+    "header header"
+    "menu content"
+    "footer footer";
+    gap:0;
+    align-items: stretch;
+}
+header{grid-area:header;}
+nav{grid-area:menu;}
+main{grid-area:content;}
+footer{grid-area:footer;}
