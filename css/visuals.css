@@ -1,5 +1,8 @@
-html{background-color: ;
-       }
+/*color-style*/
+body{background-color: grey}
+
 header{background-color: rgb(21,21,30);
        color:rgb(255,30,0)
-       }
+       }  
+/*font-style*/
+header{font-family:"Audiowide",sans-serif}
