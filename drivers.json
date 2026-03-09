@@ -1,0 +1,107 @@
+[
+{
+    "driver":"George Russell",
+    "team":"メルセデス",
+    "points":25
+},
+    {
+    "driver":"Kimi Antonelli",
+    "team":"メルセデス",
+    "points":18
+},
+{
+    "driver":"Charles Leclerc",
+    "team":"フェラーリ",
+    "points":15
+},
+{
+    "driver":"Lewis Hamilton",
+    "team":"フェラーリ",
+    "points":12
+},
+{
+    "driver":"Lando Norris",
+    "team":"マクラーレン",
+    "points":10
+},
+{
+    "driver":"Max Verstappen",
+    "team":"レッドブルレーシング",
+    "points":8
+},
+{
+    "driver":"Oliver Bearman",
+    "team":"ハース",
+    "points":6
+},
+{
+    "driver":"Arvid Lindblad",
+    "team":"VCRB",
+    "points":4
+},
+{
+    "driver":"Gabriel Bortoleto",
+    "team":"アウディ",
+    "points":2
+},
+{
+    "driver":"Pierre Gasly",
+    "team":"アルピーヌ",
+    "points":1
+},
+{
+    "driver":"Esteban Ocon",
+    "team":"ハース",
+    "points":0
+},
+{
+    "driver":"Alexander Albon",
+    "team":"ウィリアムズ",
+    "points":0
+},
+{
+    "driver":"Liam Lawson",
+    "team":"VCRB",
+    "points":0
+},
+{
+    "driver":"Franco Colapinto",
+    "team":"アルピーヌ",
+    "points":0
+},
+{
+    "driver":"Carlos Sainz",
+    "team":"ウィリアムズ",
+    "points":0
+},
+{
+    "driver":"Sergio Perez",
+    "team":"キャデラック",
+    "points":0
+},
+{
+    "driver":"Isack Hadjar",
+    "team":"レッドブルレーシング",
+    "points":0
+},
+{
+    "driver":"Oscar Piastri",
+    "team":"マクラーレン",
+    "points":0
+},
+{
+    "driver":"Nico Hulkenberg",
+    "team":"アウディ",
+    "points":0
+},
+{
+    "driver":"Fernand Alonso",
+    "team":"アストンマーチン",
+    "points":0
+},
+{
+    "driver":"Valtteri Bottas",
+    "team":"キャデラック",
+    "points":0
+}
+]
